@@ -1,0 +1,14 @@
+[ ---ALL THE NUMBERS ARE ADDED FOR REFERENCE SAKE ONLY---]
+Resources : 3 
+Max instances : 8 5 4
+process : 3
+alloc
+0 0 1
+3 2 0
+2 1 1
+max
+8 4 3
+6 2 0
+3 3 3
+ 
+
